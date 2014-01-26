@@ -1,0 +1,7 @@
+{
+  "name": "chessboardjs",
+  "version": "0.0.3",
+  "main": "./chessboardjs.js",
+  "dependencies": {
+  }
+}
